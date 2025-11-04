@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "b078bc07cdf9965e",
+    "type": "split",
+    "children": [
+      {
+        "id": "44fcb69cd8937b33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cac82ac86ceaa21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "template/日志模板.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "日志模板"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5966e0f190ba38e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ecb62d0823fed42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "908112c33b6363d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f626fa043bf7c377",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "272e4893c21bfb05",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3dc94dc1edb185de",
+    "type": "split",
+    "children": [
+      {
+        "id": "2364d30499f44d16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a96368e1f758e06f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "template/日志模板.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "日志模板 的反向链接列表"
+            }
+          },
+          {
+            "id": "fc6f29d107d6f02b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "template/日志模板.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "日志模板 的出链列表"
+            }
+          },
+          {
+            "id": "e5de93274e772a31",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "108c8d3dc1d5366a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "template/日志模板.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "日志模板 的大纲"
+            }
+          },
+          {
+            "id": "6380edac935c74c4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "908112c33b6363d8",
+  "lastOpenFiles": [
+    "工作相关/待办.md",
+    "工作相关/整理的资料/svn地址.md",
+    "工作相关/整理的资料/hikCentral登录流程.md",
+    "工作相关/整理的资料/常用命令.md",
+    "工具相关/markdown语法.md",
+    "工具相关/MarkDown超级教程 Obsidian版 2022.1.12.md",
+    "工作相关/日志/2025-11-03.md",
+    "工作相关/整理的资料/HCP协议.md",
+    "工作相关/日志/2025-11-04.md",
+    "工具相关/未命名思维导图.md",
+    "template/日志模板.md",
+    "template",
+    "工具相关/image/xiaoyuehan.png",
+    "工具相关/image",
+    "工具相关",
+    "博客/image/安全算法/image-20240619100252707.png",
+    "博客/image/安全算法/image-20240619112631308.png",
+    "博客/image/IPV6/image-20240515180124652.png",
+    "博客/image/IPV6/image-20240515180013207.png",
+    "博客/image/IPV6/image-20240515175439872.png",
+    "博客/image/IPV6/image-20240515163155984.png",
+    "博客/image/IPV6/image-20240515163037184.png",
+    "博客/image/IPV6/image-20240515152111868.png",
+    "博客/image/IPV6/image-20240515150558571.png",
+    "博客/image/IPV6",
+    "博客/image/安全算法",
+    "博客/image/openssl",
+    "博客/image/更新openSSL",
+    "博客/image/内存管理",
+    "博客/image/代码大全",
+    "博客/image/vsCode_git",
+    "博客/vsCode_git.md",
+    "博客/内存管理.md",
+    "博客/system和popen.md",
+    "博客/代码大全.md",
+    "博客/更新openSSL.md",
+    "博客/AF_UNIX.md",
+    "博客/IPV6.md",
+    "博客/安全算法.md",
+    "博客/QT.md",
+    "博客/shell.md",
+    "博客/GDB调试程序案例.md",
+    "博客/json.md",
+    "博客/1200K_UI重构说明.md",
+    "创建链接.md",
+    "工作相关/template/日志模板.md"
+  ]
+}
