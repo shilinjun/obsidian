@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "2fdb7855c722094d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a1331e33c2d50c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b512c88df55a9a96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日志/2025-11-03.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-03"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64fc190593a537c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "39c099de9a3b7559",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc5e23b05fc5fb8c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "cefc30d6c858ce1f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "04d26611f2f66778",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 202.5
+  },
+  "right": {
+    "id": "8395f057d487f0fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "20140deb0681e75e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bb1153d20507468",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "8f82f4846ffba010",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "hikCentral登录流程.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "hikCentral登录流程 的大纲"
+            }
+          },
+          {
+            "id": "e3e99cd7a5006374",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "日志/2025-11-03.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2025-11-03 的反向链接列表"
+            }
+          },
+          {
+            "id": "13ae6a67f8a24f48",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "日志/2025-11-03.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2025-11-03 的出链列表"
+            }
+          },
+          {
+            "id": "e78cdebdb7388e8e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "b512c88df55a9a96",
+  "lastOpenFiles": [
+    "日志/2025-11-04.md",
+    "日志/2025-11-03.md",
+    "template/日志模板.md",
+    "待办.md",
+    "整理的资料/hikCentral登录流程.md",
+    "整理的资料/HCP协议.md",
+    "整理的资料/常用命令.md",
+    "日志/image/Pasted image 20251104165343.png",
+    "整理的资料/image/hikcentral登录流程/Pasted image 20251031151431.png",
+    "整理的资料/image/hikcentral登录流程/Pasted image 20251031150918.png",
+    "整理的资料/image/hikcentral登录流程/Pasted image 20251030155531.png",
+    "整理的资料/image/hikcentral登录流程/Pasted image 20251030155910.png",
+    "整理的资料/image/hikcentral登录流程/Pasted image 20251030152424.png",
+    "整理的资料/svn地址.md",
+    "日志/image/Pasted image 20251104162536.png",
+    "日志/image/Pasted image 20251104160300.png",
+    "日志/image/Pasted image 20251104155823.png",
+    "未命名.md",
+    "Pasted image 20251104161658.png",
+    "2025-11-04.md",
+    "日志/image",
+    "未命名",
+    "template",
+    "整理的资料",
+    "日志",
+    "测试.md",
+    "未命名思维导图.md",
+    "2025-10-31.md",
+    "未命名.canvas",
+    "未命名 1.base",
+    "未命名.base",
+    "hikCentral登录(3.1).md",
+    "整理的资料/image/hikcentral登录流程",
+    "MarkDown超级教程 Obsidian版 2022.1.12.md",
+    "image/hikcentral登录(3.1)",
+    "markdown 语法.md",
+    "image/hikcentral登录(3.1前)",
+    "1200K_UI重构说明.md",
+    "安全算法.md",
+    "内存管理.md",
+    "更新openSSL.md",
+    "代码大全.md",
+    "vsCode_git.md",
+    "system和popen.md",
+    "shell.md",
+    "QT.md"
+  ]
+}

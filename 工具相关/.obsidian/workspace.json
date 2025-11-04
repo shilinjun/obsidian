@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "7b63550ce7316f8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "689d140bdf72dd9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1754c29a80cc5f8d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bbc0e83bd717e6a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e30dda58d2db8596",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a749b4513be5c55",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "0abdc788f4a72bad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "a7c6497d1ce1f75f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "35ae892823911700",
+    "type": "split",
+    "children": [
+      {
+        "id": "97c58638fe2174bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4fb2469be489b16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "markdown语法.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "markdown语法 的反向链接列表"
+            }
+          },
+          {
+            "id": "6596a23aead61831",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "欢迎.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "欢迎 的出链列表"
+            }
+          },
+          {
+            "id": "3fd2a07c064e982d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c610c12aa617c173",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "2a749b4513be5c55",
+  "lastOpenFiles": [
+    "MarkDown超级教程 Obsidian版 2022.1.12.md",
+    "image/xiaoyuehan.png",
+    "markdown语法.md",
+    "image/Pasted image 20251104161842.png",
+    "2025-11-04.md",
+    "未命名.canvas",
+    "image/markdown语法",
+    "image/新建文件夹",
+    "markdown 语法.md",
+    "image/ScreenCapture20240607165836924.png",
+    "image/hikcentral登录(3.1前)/Pasted image 20251030155910.png",
+    "image/hikcentral登录(3.1前)/Pasted image 20251030155531.png",
+    "image/hikcentral登录(3.1前)/Pasted image 20251030152424.png",
+    "image/hikcentral登录(3.1前)",
+    "image/hikcentral登录(3.1)",
+    "image",
+    "欢迎.md",
+    "MOC Mermiad 教程 Obsidian版.md"
+  ]
+}
