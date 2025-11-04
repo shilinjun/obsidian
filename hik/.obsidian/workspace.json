@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "44fcb69cd8937b33",
+        "id": "7ebe3e2a88a2b661",
         "type": "tabs",
         "children": [
           {
-            "id": "2cac82ac86ceaa21",
+            "id": "dd654bc027eb79b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "template/日志模板.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "日志模板"
+              "title": "新标签页"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/日志模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "日志模板 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/日志模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "日志模板 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -142,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/日志模板.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "日志模板 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -180,8 +173,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "908112c33b6363d8",
+  "active": "dd654bc027eb79b0",
   "lastOpenFiles": [
+    "template/日志模板.md",
     "工作相关/待办.md",
     "工作相关/整理的资料/svn地址.md",
     "工作相关/整理的资料/hikCentral登录流程.md",
@@ -192,7 +186,6 @@
     "工作相关/整理的资料/HCP协议.md",
     "工作相关/日志/2025-11-04.md",
     "工具相关/未命名思维导图.md",
-    "template/日志模板.md",
     "template",
     "工具相关/image/xiaoyuehan.png",
     "工具相关/image",
