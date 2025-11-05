@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7ebe3e2a88a2b661",
+        "id": "1eb9142785bebaf5",
         "type": "tabs",
         "children": [
           {
-            "id": "dd654bc027eb79b0",
+            "id": "cc2a15b535c4ada8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "工作相关/日志/2025-11-05.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "2025-11-05"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "工作相关/日志/2025-11-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "2025-11-05 的反向链接列表"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "工作相关/日志/2025-11-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "2025-11-05 的出链列表"
             }
           },
           {
@@ -136,16 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "工作相关/日志/2025-11-05.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "2025-11-05 的大纲"
             }
           },
           {
-            "id": "6380edac935c74c4",
+            "id": "53c929839153fcf1",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -163,42 +170,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
-      "obsidian-git:Open Git source control": false
+      "bases:创建新数据库": false
     }
   },
-  "active": "dd654bc027eb79b0",
+  "active": "cc2a15b535c4ada8",
   "lastOpenFiles": [
-    "template/日志模板.md",
-    "工作相关/待办.md",
+    "工作相关/日志/2025-11-04.md",
+    "工作相关/日志/2025-11-03.md",
     "工作相关/整理的资料/svn地址.md",
     "工作相关/整理的资料/hikCentral登录流程.md",
-    "工作相关/整理的资料/常用命令.md",
-    "工具相关/markdown语法.md",
-    "工具相关/MarkDown超级教程 Obsidian版 2022.1.12.md",
-    "工作相关/日志/2025-11-03.md",
     "工作相关/整理的资料/HCP协议.md",
-    "工作相关/日志/2025-11-04.md",
+    "工作相关/整理的资料/软管路径.md",
+    "工作相关/整理的资料/常用命令.md",
+    "工作相关/日志/2025-11-05.md",
+    "工作相关/待办.md",
+    "工作相关/日志/image/Pasted image 20251105185643.png",
+    "工作相关/日志/image/Pasted image 20251105181927.png",
+    "工作相关/日志/image/Pasted image 20251105181841.png",
+    "工作相关/日志/image/Pasted image 20251105162556.png",
+    "template/日志模板.md",
+    "工作相关/日志/2025-11-05-mindmap.md",
+    "工作相关/日志/image/Pasted image 20251105113349.png",
+    "工作相关/日志/image/Pasted image 20251105144131.png",
+    "工作相关/日志/image/Pasted image 20251105143411.png",
+    "工具相关/markdown语法.md",
+    "工作相关/日志/image/Pasted image 20251105113219.png",
+    "工具相关/image/xiaoyuehan.png",
+    "工具相关/MarkDown超级教程 Obsidian版 2022.1.12.md",
     "工具相关/未命名思维导图.md",
     "template",
-    "工具相关/image/xiaoyuehan.png",
     "工具相关/image",
     "工具相关",
     "博客/image/安全算法/image-20240619100252707.png",
-    "博客/image/安全算法/image-20240619112631308.png",
-    "博客/image/IPV6/image-20240515180124652.png",
-    "博客/image/IPV6/image-20240515180013207.png",
-    "博客/image/IPV6/image-20240515175439872.png",
-    "博客/image/IPV6/image-20240515163155984.png",
-    "博客/image/IPV6/image-20240515163037184.png",
-    "博客/image/IPV6/image-20240515152111868.png",
-    "博客/image/IPV6/image-20240515150558571.png",
     "博客/image/IPV6",
     "博客/image/安全算法",
     "博客/image/openssl",
@@ -216,10 +226,6 @@
     "博客/安全算法.md",
     "博客/QT.md",
     "博客/shell.md",
-    "博客/GDB调试程序案例.md",
-    "博客/json.md",
-    "博客/1200K_UI重构说明.md",
-    "创建链接.md",
-    "工作相关/template/日志模板.md"
+    "博客/GDB调试程序案例.md"
   ]
 }
