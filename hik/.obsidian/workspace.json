@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "b078bc07cdf9965e",
+    "id": "a35123da8f207922",
     "type": "split",
     "children": [
       {
-        "id": "1eb9142785bebaf5",
+        "id": "473466ffbcd7b31f",
         "type": "tabs",
         "children": [
           {
-            "id": "cc2a15b535c4ada8",
+            "id": "c37cc78ceb4ca4dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "工作相关/日志/2025-11-05.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-05"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5966e0f190ba38e5",
+    "id": "3d73cb36528db4d1",
     "type": "split",
     "children": [
       {
-        "id": "8ecb62d0823fed42",
+        "id": "6041705a09847882",
         "type": "tabs",
         "children": [
           {
-            "id": "908112c33b6363d8",
+            "id": "39469d9df8d27ff0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +44,12 @@
             }
           },
           {
-            "id": "f626fa043bf7c377",
+            "id": "7bfcb45ef44dcc02",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#注意",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "272e4893c21bfb05",
+            "id": "542a484b7c256552",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "3dc94dc1edb185de",
+    "id": "e7b608481a05144b",
     "type": "split",
     "children": [
       {
-        "id": "2364d30499f44d16",
+        "id": "051f12f32d341421",
         "type": "tabs",
         "children": [
           {
-            "id": "a96368e1f758e06f",
+            "id": "4e97e3da089aad39",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作相关/日志/2025-11-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-11-05 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
-            "id": "fc6f29d107d6f02b",
+            "id": "b84d844f5ee5cea2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作相关/日志/2025-11-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025-11-05 的出链列表"
+              "title": "出链"
             }
           },
           {
-            "id": "e5de93274e772a31",
+            "id": "9da566f10dcbb8f0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,22 +131,21 @@
             }
           },
           {
-            "id": "108c8d3dc1d5366a",
+            "id": "5ad232f673b409b9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作相关/日志/2025-11-05.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-11-05 的大纲"
+              "title": "大纲"
             }
           },
           {
-            "id": "53c929839153fcf1",
+            "id": "9836f47f30b9097d",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -170,62 +163,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "bases:创建新数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc2a15b535c4ada8",
+  "active": "c37cc78ceb4ca4dc",
   "lastOpenFiles": [
-    "工作相关/日志/2025-11-04.md",
+    "工作相关/日志/2025-11-06.md",
     "工作相关/日志/2025-11-03.md",
     "工作相关/整理的资料/svn地址.md",
+    "工作相关/待办.md",
     "工作相关/整理的资料/hikCentral登录流程.md",
     "工作相关/整理的资料/HCP协议.md",
     "工作相关/整理的资料/软管路径.md",
-    "工作相关/整理的资料/常用命令.md",
+    "工作相关/日志/2025-11-04.md",
     "工作相关/日志/2025-11-05.md",
-    "工作相关/待办.md",
-    "工作相关/日志/image/Pasted image 20251105185643.png",
-    "工作相关/日志/image/Pasted image 20251105181927.png",
-    "工作相关/日志/image/Pasted image 20251105181841.png",
-    "工作相关/日志/image/Pasted image 20251105162556.png",
     "template/日志模板.md",
-    "工作相关/日志/2025-11-05-mindmap.md",
-    "工作相关/日志/image/Pasted image 20251105113349.png",
-    "工作相关/日志/image/Pasted image 20251105144131.png",
-    "工作相关/日志/image/Pasted image 20251105143411.png",
-    "工具相关/markdown语法.md",
-    "工作相关/日志/image/Pasted image 20251105113219.png",
-    "工具相关/image/xiaoyuehan.png",
     "工具相关/MarkDown超级教程 Obsidian版 2022.1.12.md",
-    "工具相关/未命名思维导图.md",
-    "template",
-    "工具相关/image",
-    "工具相关",
-    "博客/image/安全算法/image-20240619100252707.png",
-    "博客/image/IPV6",
-    "博客/image/安全算法",
-    "博客/image/openssl",
-    "博客/image/更新openSSL",
-    "博客/image/内存管理",
-    "博客/image/代码大全",
-    "博客/image/vsCode_git",
-    "博客/vsCode_git.md",
-    "博客/内存管理.md",
-    "博客/system和popen.md",
-    "博客/代码大全.md",
-    "博客/更新openSSL.md",
-    "博客/AF_UNIX.md",
-    "博客/IPV6.md",
-    "博客/安全算法.md",
-    "博客/QT.md",
-    "博客/shell.md",
-    "博客/GDB调试程序案例.md"
+    "工作相关/2025-11-05^.md"
   ]
 }

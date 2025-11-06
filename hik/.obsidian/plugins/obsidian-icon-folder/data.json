@@ -33,26 +33,5 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  },
-  "博客": "LiFolder",
-  "工具相关": "LiFolder",
-  "工作相关": "LiFolder",
-  "博客/image": "LiImage",
-  "工具相关/image": "LiImage",
-  "工作相关/日志/image": "LiImage",
-  "工作相关/整理的资料/image": "LiImage",
-  "工作相关/日志/2025-11-03.md": "LiFileClock",
-  "工作相关/日志/2025-11-04.md": "LiFileClock",
-  "工具相关/markdown语法.md": "LiFile",
-  "工作相关/整理的资料/常用命令.md": "LiFile",
-  "工作相关/整理的资料/HCP协议.md": "LiFile",
-  "工作相关/整理的资料/hikCentral登录流程.md": "LiFile",
-  "工作相关/整理的资料/svn地址.md": "LiFile",
-  "工作相关/待办.md": "LiListTodo",
-  "template/日志模板.md": "LiBookTemplate",
-  "工具相关/MarkDown超级教程 Obsidian版 2022.1.12.md": "LiFile",
-  "工作相关/日志": "LiFolder",
-  "工作相关/整理的资料": "LiFolder",
-  "工作相关/日志/2025-11-05.md": "LiFileClock",
-  "工作相关/整理的资料/软管路径.md": "LiFile"
+  }
 }

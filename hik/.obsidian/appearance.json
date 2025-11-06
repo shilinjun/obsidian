@@ -1,4 +1,5 @@
 {
   "theme": "obsidian",
-  "monospaceFontFamily": "JetBrains Mono"
+  "monospaceFontFamily": "JetBrains Mono",
+  "cssTheme": "Border"
 }
