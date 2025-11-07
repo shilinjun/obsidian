@@ -1,5 +1,7 @@
 {
   "theme": "obsidian",
   "monospaceFontFamily": "JetBrains Mono",
-  "cssTheme": "Border"
+  "cssTheme": "Border",
+  "showViewHeader": true,
+  "showRibbon": true
 }

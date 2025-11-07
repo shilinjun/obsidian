@@ -46,6 +46,12 @@ https://192.0.0.183/NetKeyboard/DS-1200K/trunk/DS-1200K_Hi3518
 https://192.0.0.183/NetKeyboard/DS-1200K/trunk/DS-1200K_FY00
 ```
 
+小尺寸UI
+```
+https://192.0.0.183/NetKeyboard/GUI/trunk/DS-D56
+```
+
+
 1200K UI优化预研
 ```
 https://192.0.0.183/NetKeyboard/DS-1200K/branches/预研/DS-1200K_V2.0.0/UI优化预研
@@ -55,3 +61,4 @@ https://192.0.0.183/NetKeyboard/DS-1200K/branches/预研/DS-1200K_V2.0.0/UI优�
 ```
 https://192.0.0.183/NetKeyboard/DS-1200K/branches/custom/DS-1200K_V2.0.0/DZP20240919159_PJ01PC20240919353_浙江绿城建筑科技有限公司定制1200K键盘接入ISC2.1.1
 ```
+

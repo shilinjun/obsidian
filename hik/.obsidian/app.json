@@ -2,6 +2,7 @@
   "readableLineLength": false,
   "attachmentFolderPath": "./image",
   "newFileLocation": "current",
-  "useMarkdownLinks": false,
-  "newLinkFormat": "shortest"
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "showInlineTitle": false
 }

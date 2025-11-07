@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "473466ffbcd7b31f",
+        "id": "03427231c77e9d2d",
         "type": "tabs",
         "children": [
           {
-            "id": "c37cc78ceb4ca4dc",
+            "id": "f5e959d0eec26a3c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "工作相关/日志/2025-11-07.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-07"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#注意",
+                "query": "tag:#Todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "工作相关/日志/2025-11-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "2025-11-06 的反向链接列表"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "工作相关/日志/2025-11-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "2025-11-06 的出链列表"
             }
           },
           {
@@ -122,8 +128,8 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
+                "useHierarchy": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -136,12 +142,30 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "工作相关/日志/2025-11-07.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "2025-11-07 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "0de047023ea16e6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c37cc78ceb4ca4dc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           },
           {
@@ -155,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,21 +193,32 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
+      "bases:创建新数据库": true,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c37cc78ceb4ca4dc",
+  "active": "f5e959d0eec26a3c",
   "lastOpenFiles": [
-    "工作相关/日志/2025-11-06.md",
-    "工作相关/日志/2025-11-03.md",
-    "工作相关/整理的资料/svn地址.md",
-    "工作相关/待办.md",
-    "工作相关/整理的资料/hikCentral登录流程.md",
-    "工作相关/整理的资料/HCP协议.md",
-    "工作相关/整理的资料/软管路径.md",
+    "工作相关/日志/image/Pasted image 20251107145202.png",
+    "工作相关/日志/2025-11-07.md",
+    "工作相关/日志/image/Pasted image 20251107165806.png",
     "工作相关/日志/2025-11-04.md",
     "工作相关/日志/2025-11-05.md",
+    "工作相关/日志/2025-11-06.md",
+    "工作相关/日志/2025-11-03.md",
+    "工作相关/日志/image/Pasted image 20251104165343.png",
+    "工作相关/日志/image/Pasted image 20251104155823.png",
+    "工作相关/整理的资料/hikCentral登录流程.md",
+    "工作相关/日志/image/Pasted image 20251107165639.png",
+    "工作相关/整理的资料/HCP协议.md",
+    "工作相关/日志/image/Pasted image 20251107164330.png",
+    "工作相关/日志/image/Pasted image 20251107164603.png",
+    "工作相关/日志/image/Pasted image 20251107164452.png",
+    "工作相关/整理的资料/常用命令.md",
+    "工作相关/整理的资料/软管路径.md",
+    "工作相关/整理的资料/svn地址.md",
+    "工作相关/待办.md",
+    "工具相关/markdown语法.md",
     "template/日志模板.md",
     "工具相关/MarkDown超级教程 Obsidian版 2022.1.12.md",
     "工作相关/2025-11-05^.md"

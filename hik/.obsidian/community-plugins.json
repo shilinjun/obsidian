@@ -1,8 +1,8 @@
 [
   "editing-toolbar",
   "obsidian-git",
-  "obsidian-icon-folder",
   "obsidian-markmind",
   "obsidian-style-settings",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "mousewheel-image-zoom"
 ]
